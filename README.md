@@ -1,9 +1,6 @@
 # feedback
 The "Feedback Website" is a responsive platform for users to easily provide and view feedback, featuring a clean design and centered mobile/tablet submit button.
 
-Sure, here's an example of a comprehensive GitHub repository description for the "Feedback Website":
-
----
 **Feedback Website Repository**
 
 The "Feedback Website" is a user-friendly and responsive web application designed to streamline the process of collecting valuable feedback from users. This repository contains the complete source code and assets for the website, providing an interactive and engaging platform for users to express their opinions.
